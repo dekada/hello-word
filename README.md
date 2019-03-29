@@ -1,3 +1,5 @@
 # hello-word
-This is my first repository.
-Hi! My name is Danka. I'm new here and I'm learning Git.
+
+This is my first repository
+Hello,
+this is my first commit on ny new branch readme-edits
